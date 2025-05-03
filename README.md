@@ -1,7 +1,7 @@
   # CS-210-Programming-Languages-project-3-Corner-Grocer
 |Course questions|My answer| 
+|-----:|-----------|
 |1. Summarize the project and what problem it was solving.|My project aimed to create a grocery item tracking system that reads data from a text file, counts how often each item appears, and provides multiple ways to view this frequency data visually. The goal was to help users quickly identify trends in grocery purchases.|
-|----:|-----|
 |2. What did you do particularly well?| I implemented clean and modular code using Object-Oriented Programming. I was particularly effective in creating a user-friendly menu system and designing a histogram visualization with color coding, which added an intuitive interface to interpret item frequency data.|
 |3. Where could you enhance your code?|I think my code could be better in a few ways. First, I could improve how it handles user input so that it doesn’t crash or act weird if someone types something unexpected. Also, I used windows.h to add colors, but that only works on Windows. It would be nice to make it work on other systems too, like Mac or Linux.|
 |4. Which pieces of the code did you find most challenging to write, and how did you overcome this?|The most challenging part was implementing the color-coded histogram with Windows-specific console manipulation. I overcame this by researching SetConsoleTextAttribute and experimenting with different color codes. Resources like C++ topics were very helpful in understanding Windows console behavior.|
