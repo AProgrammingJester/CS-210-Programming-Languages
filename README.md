@@ -8,11 +8,8 @@ I implemented clean and modular code using Object-Oriented Programming. I was pa
 
 3. Where could you enhance your code?
 Enhancements could include:
-
 Input validation: Strengthen handling of user input to prevent incorrect or unexpected behavior.
-
 Cross-platform support: Replace windows.h with standard output manipulation for compatibility on non-Windows systems.
-
 Efficiency: Cache max frequency instead of recalculating in loops.
 
 4. Which pieces of the code did you find most challenging to write, and how did you overcome this?
@@ -20,20 +17,13 @@ The most challenging part was implementing the color-coded histogram with Window
 
 5. What skills from this project will be particularly transferable to other projects or coursework?
 File I/O handling using C++
-
 Object-Oriented Programming (encapsulation, abstraction)
-
 User input handling
-
 Basic data visualization (histograms)
-
 Debugging and refactoring based on design goals
-
 These skills are widely applicable in software development and data analysis tasks.
 
 6. How did you make this program maintainable, readable, and adaptable?
 Readable: Clear naming conventions and comments explaining each step.
-
 Maintainable: Separated functionality using classes and headers, making the code modular.
-
 Adaptable: Used standard data structures (std::map, std::string) and encapsulated logic in methods that can easily be reused or extended.
