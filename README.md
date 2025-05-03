@@ -17,10 +17,15 @@ The most challenging part was implementing the color-coded histogram with Window
 
 5. What skills from this project will be particularly transferable to other projects or coursework?
 File I/O handling using C++
+
 Object-Oriented Programming (encapsulation, abstraction)
+
 User input handling
+
 Basic data visualization (histograms)
+
 Debugging and refactoring based on design goals
+
 These skills are widely applicable in software development and data analysis tasks.
 
 6. How did you make this program maintainable, readable, and adaptable?
