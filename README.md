@@ -1,5 +1,5 @@
   # CS-210-Programming-Languages-project-3-Corner-Grocer
-|Course questions|My response| 
+|Module quetions about the project|My response| 
 |-----:|-----------|
 |1. Summarize the project and what problem it was solving.|My project aimed to create a grocery item tracking system that reads data from a text file, counts how often each item appears, and provides multiple ways to view this frequency data visually. The goal was to help users quickly identify trends in grocery purchases.|
 |2. What did you do particularly well?| I implemented clean and modular code using Object-Oriented Programming. I was particularly effective in creating a user-friendly menu system and designing a histogram visualization with color coding, which added an intuitive interface to interpret item frequency data.|
